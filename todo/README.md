@@ -7,10 +7,10 @@
 💾 All tasks are stored in the Redux store for reliable and real-time updates.<br/>
 🎨 Clean and user-friendly design for a great experience.<br/>
 <br/><br/>
-📌 Perfect for:<br/><br/><br/>
+📌 watch video: (https://drive.google.com/drive/folders/1KgqRvRBSF_6rxbQxRoXfztWibaXn9N7N)<br/><br/><br/>
 
 📅 Daily To-Do Lists
-    watch video (https://drive.google.com/drive/folders/1KgqRvRBSF_6rxbQxRoXfztWibaXn9N7N)
+    
     
 🏫 Study Planners
 
